@@ -1,0 +1,90 @@
+* {box-sizing: border-box;
+
+}
+
+body {
+    background-image: url("light-grey-terrazzo.png");
+
+}
+
+header {
+    border-bottom: solid;
+    border-bottom-color: #dddddd;
+    position: relative;
+    height: 70px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+h1 {
+    float: left;
+    background-color: #4aaaa5;
+    margin:0px 50px;
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+    width: 215px;
+}
+
+button {
+    float: right;
+}
+
+.About {
+    border-right: 5px #cccccc;
+}
+a:link{
+    text-decoration: none;
+}
+
+#main {
+    width: 600px;
+    height: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+img {
+    margin: 20px;
+    padding: 20px;
+    width: 200px;
+    height: 200px;
+}
+/* #header {
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center; 
+    Position: relative;
+    margin: 0 auto;
+    padding: 20px;
+    width: 200px;
+    bottom: 0px;
+    float: left;
+} */
+
+/* .navigation {
+    border-right: #cccccc; */
+    /* position: absolute; */
+    /* text-align: center;
+    float: right; */
+    /* right:-1000px;
+    bottom: 0px;
+
+}
+
+
+
+#main {
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    
+} 
+img {
+    margin: 20px;
+    padding: 20px;
+    width: 200px;
+    height: 200px; 
+}
